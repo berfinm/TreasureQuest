@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c9002ba57561b43c895f2830016df0bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenGridPrefab: {fileID: 1663513689044364786, guid: d779706ef9d2c428ab483b0ab24a7162, type: 3}
+  - whiteGridPrefab: {fileID: 8079887545020702692, guid: 111587eb54b4f4c949900a8aec0c6b35, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
